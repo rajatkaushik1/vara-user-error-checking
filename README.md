@@ -1,1 +1,0 @@
-# vara-user-error-checking
